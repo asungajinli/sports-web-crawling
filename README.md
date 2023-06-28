@@ -10,4 +10,4 @@ Data: LCK
 Source: [Leaguepedia](https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki)
 
 # Result
-[Sports|Asungajinli](https://asungajinli.github.io/sports/)
+[Sports | Asungajinli](https://asungajinli.github.io/sports/)
