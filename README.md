@@ -3,8 +3,8 @@ Crawling web tables with pandas
 
 ## Code
 
-Football &rarr; football/scraping.ipynb
-Esports &rarr; esports/scraping.ipynb
+Football &rarr; [football/scraping.ipynb](https://github.com/asungajinli/sports-web-crawling/blob/c62446e170521df18ff1ef1f8c0bdf191d540195/football/scraping.ipynb)  
+Esports &rarr; [esports/scraping.ipynb]
 
 ## Data Source
 
